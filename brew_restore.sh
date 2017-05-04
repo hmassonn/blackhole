@@ -3,3 +3,7 @@ zsh
 brew install valgrind
 // patch e3 sierra => https://bugsfiles.kde.org/attachment.cgi?id=104964
 // doc => https://git-scm.com/docs/git-apply
+
+// DAMP docker-compose up -d (sans -d pour voir les logs)
+// docker ps
+// docker-compose down
