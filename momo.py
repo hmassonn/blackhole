@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#	from mmazouz for have a new token
+#	su.post('https://api.intra.42.fr/oauth/token')
+#         .send({grant_type: 'refresh_token', client_id: client_id, client_secret: client-secret, refresh_token: refresh_token, redirect_uri: redirect})
+#         .set('Content-Type', 'application/x-www-form-urlencoded')
+
 import json
 import requests
 
