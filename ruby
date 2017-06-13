@@ -4,3 +4,6 @@ rvm install ruby-2.4.0
 /bin/zsh --login
 rvm use ruby-2.4.0 --default
 gem install rails
+
+rails server
+rails command
