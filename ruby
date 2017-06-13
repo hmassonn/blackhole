@@ -6,4 +6,4 @@ rvm use ruby-2.4.0 --default
 gem install rails
 
 rails server
-rails command
+rails console
