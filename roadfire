@@ -1,0 +1,23 @@
+## pour se connecter
+psql fire_bnb 
+
+## pour starter
+pg_ctl -D /Users/hmassonn/.brew/var/postgres -l /Users/hmassonn/.brew/var/postgres/server.log start
+
+## pour stoper
+pg_ctl -D /Users/hmassonn/.brew/var/postgres stop -s -m fast
+
+
+rvm use ruby-2.3.2
+Redis-server
+bundle exec sidekiq
+rails s
+
+
+## git
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;
+
+## makette
+https://www.figma.com/file/CZ4pKIlem0r6tkcU9WBTpOFy/Firebnb-(annonce)?node-id=282%3A2
+https://www.figma.com/file/EQL0CWrQfuOt5NwmqFPQ9SbT/Untitled
+
