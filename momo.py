@@ -5,6 +5,7 @@
 #	su.post('https://api.intra.42.fr/oauth/token')
 #         .send({grant_type: 'refresh_token', client_id: client_id, client_secret: client-secret, refresh_token: refresh_token, redirect_uri: redirect})
 #         .set('Content-Type', 'application/x-www-form-urlencoded')
+#	(python -c 'print 90*"\x90"+"\x84\x64\x04\x08"' ; cat) | ./exec
 
 import json
 import requests
