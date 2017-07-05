@@ -3,10 +3,11 @@ psql fire_bnb
 
 ## pour starter
 pg_ctl -D /Users/hmassonn/.brew/var/postgres -l /Users/hmassonn/.brew/var/postgres/server.log start
+pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
 
 ## pour stoper
 pg_ctl -D /Users/hmassonn/.brew/var/postgres stop -s -m fast
-
+pg_ctl -D /usr/local/var/postgres stop -s -m fast
 
 rvm use ruby-2.3.2
 Redis-server
