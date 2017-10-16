@@ -6,4 +6,4 @@ source $HOME/.brewconfig.zsh
 
 http://clang.llvm.org/extra/clang-tidy/
 
-while true; do leaks minishell | grep “leak for”; done
+while true; do leaks minishell | grep "leaks for"; done
