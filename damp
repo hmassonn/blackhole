@@ -1,0 +1,36 @@
+docker-compose up -d
+
+
+
+Dockerfile
+
+FROM    php:7-apache
+
+RUN     docker-php-ext-install mysqli pdo pdo_mysql
+
+
+
+Docker-compose.yml
+
+
+version: '2'
+
+services:
+	db:
+		image: mysql
+		environment:
+		- "MYSQL_ROOT_PASSWORD=root"
+		volumes:
+		- "$HOME/.mysql:/var/lib/mysql"
+	php:
+		build: './php'
+		ports:
+		- '8080:80'
+		volumes:
+		- "$HOME/http/MyWebSite:/var/www/html/"
+	pma:
+		image: 'phpmyadmin/phpmyadmin'
+		environment:
+		- 'PMA_HOST=db'
+		ports:
+		- '8081:80'
