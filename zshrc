@@ -17,3 +17,6 @@ http://conference.hitb.org/hitbsecconf2013kul/materials/D2T3%20-%20Keith%20Lee%2
 
 correction pdf:
 https://drive.google.com/drive/folders/0B79NTawBNiWmfkFwWXlzTXlnampPdG5Qd3hxTFBTa0l6ZG15WUxQS1lIcUk4Zk5xTHFTaDQ
+
+vim:
+https://github.com/agadiffe/dot_vim/blob/master/config/vim_config.vim
