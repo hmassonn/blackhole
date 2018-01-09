@@ -21,4 +21,6 @@ https://drive.google.com/drive/folders/0B79NTawBNiWmfkFwWXlzTXlnampPdG5Qd3hxTFBT
 vim:
 https://github.com/agadiffe/dot_vim/blob/master/config/vim_config.vim
 
+git remot add origin [link]
+
 Binary-Hackers
