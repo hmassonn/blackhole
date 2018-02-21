@@ -13,6 +13,8 @@ https://docs.google.com/spreadsheets/d/1pFwSCne-mh-u5ZLsjZS8VI9QvecYk-gWTyNaPstj
 
 docker container rm $(docker container ls -a -q)
 docker image rm $(docker image ls -a -q)
+docker-machine --storage-path "<ton path>" create --driver virtualbox <le nom de ta machine>
+eval $(docker-machine --storage-path "<ton path>" env <ta machine>)
 
 kali:
 https://github.com/milo2012/osintstalker
