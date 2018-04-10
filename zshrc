@@ -17,6 +17,7 @@ docker-machine --storage-path "<ton path>" create --driver virtualbox <le nom de
 eval $(docker-machine --storage-path "<ton path>" env <ta machine>)
 
 kali:
+https://nofile.io/f/ZjOqK6KD7us/Pentesters-Survival-Guide.pdf
 https://github.com/milo2012/osintstalker
 http://conference.hitb.org/hitbsecconf2013kul/materials/D2T3%20-%20Keith%20Lee%20and%20Jonathan%20Werrett%20-%20Facebook%20OSINT.pdf
 https://github.com/Hacker0x01/hacker101
