@@ -33,3 +33,4 @@ VBoxManage guestproperty enumerate "okroot"
 git remot add origin [link]
 
 Binary-Hackers
+https://www.youtube.com/user/davisrichardg/videos?disable_polymer=1
