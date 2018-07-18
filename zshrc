@@ -16,6 +16,9 @@ docker image rm $(docker image ls -a -q)
 docker-machine --storage-path "<ton path>" create --driver virtualbox <le nom de ta machine>
 eval $(docker-machine --storage-path "<ton path>" env <ta machine>)
 
+ebook sur la progra:
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+
 kali:
 https://nofile.io/f/ZjOqK6KD7us/Pentesters-Survival-Guide.pdf
 https://github.com/milo2012/osintstalker
