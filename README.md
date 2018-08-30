@@ -17,3 +17,5 @@ https://mega.nz/#!XkYiDQaZ!Nj2iCXmUrQh8qEgfq_jZPcW32gvmGqUIplwC6PPMCcE
 https://www.youtube.com/watch?v=m9r2zZDiYs4
 
 https://cdn.intra.42.fr/pdf/pdf/317/norme.fr.pdf
+
+https://42entrepreneurs.com/perks
