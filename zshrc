@@ -27,6 +27,7 @@ https://github.com/Hacker0x01/hacker101
 https://www.youtube.com/user/davisrichardg/videos?disable_polymer=1
 https://www.youtube.com/watch?v=gKG3qEp0ot4
 http://web.archive.org/web/20120624074941/http://home.comcast.net/~acabion/refscore.html
+https://geekflare.com/find-subdomains/
 
 correction pdf:
 https://drive.google.com/drive/folders/0B79NTawBNiWmfkFwWXlzTXlnampPdG5Qd3hxTFBTa0l6ZG15WUxQS1lIcUk4Zk5xTHFTaDQ
