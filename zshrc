@@ -27,6 +27,7 @@ https://github.com/Hacker0x01/hacker101
 https://www.youtube.com/user/davisrichardg/videos?disable_polymer=1
 https://www.youtube.com/watch?v=gKG3qEp0ot4
 http://web.archive.org/web/20120624074941/http://home.comcast.net/~acabion/refscore.html
+https://www.asciitohex.com/
 https://bionsgadgets.appspot.com/
 https://geekflare.com/find-subdomains/
 https://repo.zenk-security.com/Magazine%20E-book/The%20web%20application%20hackers%20handbook%20finding%20and%20exploiting%20security%20flaws%20-ed2%202011.pdf
